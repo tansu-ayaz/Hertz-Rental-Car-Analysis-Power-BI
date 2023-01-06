@@ -6,15 +6,15 @@ Data analyst with experience in interpreting and analyzing data in order to deli
 
 Skills: 
 Data Analysis: 
--SQL: Joins, Union, Case
--Python: Pandas, Numpy, Scipy, Pandas, Matplotlib, Seaborn, Bokeh
--Excel: Pivot Tables, V-lookup, IF function, Plotting 
--R 
+-**SQ**L: Joins, Union, Case
+-**Python**: Pandas, Numpy, Scipy, Pandas, Matplotlib, Seaborn, Bokeh
+-**Excel**: Pivot Tables, V-lookup, IF function, Plotting 
+-**R**
 Data Visualization/Presentation:
--Tableau
--PowerBI
--Word
--PowerPoint
+-**Tableau**
+-**PowerBI**
+-**Word**
+-**PowerPoint**
 
 ## Let's Connect! 🤝
 
