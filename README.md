@@ -2,9 +2,6 @@
 
 <a href="https://cdn.futura-sciences.com/sources/images/Big-Data.jpg"><img align="right" width="349" height="auto" src="https://cdn.futura-sciences.com/sources/images/Big-Data.jpg"></a>
 
-<!-- <a href="https://github.com/mckolu/mckolu/blob/main/python.jpg"><img align="right" width="349" height="auto" src="https://github.com/mckolu/mckolu/blob/main/python.jpg"></a> -->
-
-
 Data analyst with experience in interpreting and analyzing data in order to deliver insights and implement action-oriented solutions to complex problems. With an excellent understanding of business operations, and analytic tools, I am ready to share my passion in the field.
 
 Skills: 
