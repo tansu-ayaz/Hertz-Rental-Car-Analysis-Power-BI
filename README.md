@@ -39,4 +39,4 @@ Also rental cost per day affect the number of trips taken.
 
 
 <img src =
-"https://assets.simpleviewinc.com/simpleview/image/fetch/c_pad,h_651,q_75,w_979/https://assets.simpleviewinc.com/simpleview/image/upload/crm/utahvalley/Hertz-southend-airport0_30341470-5056-a36a-0b2b72c21a2c5e15.jpg" width="350" height="auto" />
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVjM9Bs8g-87dYNKS-eCL_Hlar-j6G5anDbw&usqp=CAU" width="350" height="auto" />
