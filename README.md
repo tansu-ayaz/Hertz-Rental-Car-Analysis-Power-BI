@@ -46,7 +46,11 @@ I created many kind of charts using the necessary columns and then transferred t
 <img src =
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVjM9Bs8g-87dYNKS-eCL_Hlar-j6G5anDbw&usqp=CAU" width="350" height="auto" />
 
-![image] <img src = "https://github.com/Tansuuuu/Financial-Complaints-Analysis/blob/main/Tri-Bank%20company%20Analysis%20Picture%20-%20Copy.jpg" />
+![image] <img src = "https://github.com/Tansuuuu/Hertz-Rental-Car-Analysis/blob/main/Hertz.jpg" />
+
+![image] <img src = "https://github.com/Tansuuuu/Hertz-Rental-Car-Analysis/blob/main/Hertz.jpg" />
+
+![image] <img src = "https://github.com/Tansuuuu/Hertz-Rental-Car-Analysis/blob/main/Hertz.jpg" />
 
 ## Technologies
 To complete this project, I used the following tools:
