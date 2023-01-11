@@ -50,7 +50,7 @@ I created many kind of charts using the necessary columns and then transferred t
 
 ![image] <img src = "https://github.com/Tansuuuu/Hertz-Rental-Car-Analysis/blob/main/Hertz1.jpg" />
 
-![image] <img src = "https://github.com/Tansuuuu/Hertz-Rental-Car-Analysis/blob/main/Hertz.jpg" />
+![image] <img src = "https://github.com/Tansuuuu/Hertz-Rental-Car-Analysis/blob/main/Hertz2.jpg" />
 
 ## Technologies
 To complete this project, I used the following tools:
