@@ -21,10 +21,6 @@ The dashboard features:
 
 I created many kind of charts using the necessary columns and then transferred them to Tableau.
 
-
-<img src =
-"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVjM9Bs8g-87dYNKS-eCL_Hlar-j6G5anDbw&usqp=CAU" width="350" height="auto" />
-
 ![image] <img src = "https://github.com/Tansuuuu/Hertz-Rental-Car-Analysis/blob/main/Hertz.jpg" />
 
 ![image] <img src = "https://github.com/Tansuuuu/Hertz-Rental-Car-Analysis/blob/main/Hertz1.jpg" />
