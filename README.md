@@ -21,11 +21,11 @@ The dashboard features:
 
 I created many kind of charts using the necessary columns and then transferred them to Tableau.
 
-![image] <img src = "https://github.com/tansu-ayaz/AIRLINE-PASSENGER-SATISFACTION-ANALYSIS/blob/main/P.jpg" />
+![image] <img src = "https://github.com/tansu-ayaz/Hertz-Rental-Car-Analysis/blob/main/Hertz.jpg" />
 
-![image] <img src = "https://github.com/tansu-ayaz/AIRLINE-PASSENGER-SATISFACTION-ANALYSIS/blob/main/P1.jpg" />
+![image] <img src = "https://github.com/tansu-ayaz/Hertz-Rental-Car-Analysis/blob/main/Hertz1.jpg" />
 
-![image] <img src = "https://github.com/tansu-ayaz/AIRLINE-PASSENGER-SATISFACTION-ANALYSIS/blob/main/P1p.jpg" />
+![image] <img src = "https://github.com/tansu-ayaz/Hertz-Rental-Car-Analysis/blob/main/Hertz2.jpg" />
 
 ## Technologies
 To complete this project, I used the following tools:
