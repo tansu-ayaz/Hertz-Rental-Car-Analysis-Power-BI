@@ -6,7 +6,8 @@ Utilizing Power BI to display for a consulting company, Hertz hires you to make 
 
 The main product of this report is the Power BI dashboard. Interactive dashboard focuses on various projects for rent a car analysis. This company wants to see that Which car makes and models are popular and in which cities, What are the most expensive cities for car rentals, What is the typical fare  of car rental in various major cities and so on.
 
-Dashboard link: https://app.powerbi.com/groups/me/reports/79cf1c15-6383-4427-8942-222c5c16ffb4?ctid=d5497775-cd33-4800-8f26-da8d56cb922b&pbi_source=linkShare
+ <a href="https://app.powerbi.com/groups/me/reports/79cf1c15-6383-4427-8942-222c5c16ffb4?ctid=d5497775-cd33-4800-8f26-da8d56cb922b&pbi_source=linkShare">Go to my Dashboard link</a>
+
 
 The dashboard features:
 
